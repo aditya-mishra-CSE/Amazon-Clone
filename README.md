@@ -13,7 +13,7 @@ Here is a breakdown of the different sections in the code:
 2. Bottom Panel:
 * ntains links to different sections such as Today's Deals, Customer Service, Registry, Gift Cards, and Sell.
 
-3. Heor Section:
+3. Hero Section:
 * Display a message witha link to the Amazon India website.
 
 4. Shop Section:
